@@ -1,0 +1,12 @@
+ALTER TABLE table_name
+ADD COLUMN id SERIAL PRIMARY KEY;
+
+
+{
+"fname":"anas",
+"lname":"kv",
+"phone": 7034081363,
+"age":21,
+"email":"jairalfasdf@gmail.com",
+"password":"asdfghj"
+}
